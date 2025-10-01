@@ -61,3 +61,12 @@ Tutorial on how to use GitHub, Git, and Webstorm.
 - Pull — bring down commits from GitHub and update your local files (pull = fetch + merge).
 - Remote — a link (pointer) to a repository stored somewhere else, like GitHub.
 - Repository — the project folder tracked by Git (with all its history).
+
+# References
+- Powerpoints on Canvas by Dr. Hendela
+- https://github.com/signup
+- https://git-scm.com/downloads
+- https://www.jetbrains.com/academy/student-pack/
+- ChatGPT
+- https://www.jetbrains.com/help/webstorm/using-git-integration.html
+- https://docs.github.com/en/get-started/start-your-journey/hello-world
