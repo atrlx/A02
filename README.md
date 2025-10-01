@@ -28,6 +28,7 @@ Tutorial on how to use GitHub, Git, and Webstorm.
 2. Under version control, click on Git.
 3. The path will be auto detected because we already installed Git as a local program onto our laptop.
 4. Click on "Test" and it should show the Git version which means it's successfully connected.
+5. Click apply and close the settings.
 
 **How to connect Webstorm to GitHub**
 1. Open Webstorm and look for settings or use the keyboard shortcut "Ctrl + Alt + S" to launch Webstorm settings.
@@ -47,3 +48,16 @@ Tutorial on how to use GitHub, Git, and Webstorm.
 4. Click "Commit and Push"
 5. Your code is now updated on GitHub
 
+# Glossary
+- Branch — a separate line of work where you can change things without breaking the main project.
+- Clone — downloading a GitHub repository to your computer so you can work on it locally.
+- Commit — a saved snapshot of your changes with a message.
+- Fetch — ask the remote for new commits; it brings metadata down but doesn’t change your files yet.
+- GIT — the version control system that tracks changes to files.
+- Github — the website/service that hosts Git repositories in the cloud.
+- Merge — combine changes from one branch into another.
+- Merge Conflict — when Git can’t automatically combine changes and asks you to choose what to keep.
+- Push — send your local commits up to GitHub.
+- Pull — bring down commits from GitHub and update your local files (pull = fetch + merge).
+- Remote — a link (pointer) to a repository stored somewhere else, like GitHub.
+- Repository — the project folder tracked by Git (with all its history).
